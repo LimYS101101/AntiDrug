@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Anti Drug</string>
+    <string name="logingmail">Username</string>
+    <string name="loginpassword">Password </string>
+    <string name="SignUp">Sign Up</string>
+    <string name="Login">Login</string>
+    <string name="loginid">Please Enter Username</string>
+    <string name="password">Please Enter Password</string>
+    <string name="repassword">Re-enter Password</string>
+    <string name="gmailaddress">Please Enter Gmail</string>
+    <string name="personalname">Name</string>
+    <string name="register">Register</string>
+    <string name="back">Back</string>
+    <string name="changepassword">Change Password</string>
+    <string name="logout">Logout</string>
+    <string name="comfirm">Confirm</string>
+    <string name="reenternrepassword">Re-enter New Password</string>
+    <string name="newpassword">New Password</string>
+    <string name="oldpassword">Old Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

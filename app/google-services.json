@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "935342831435",
+    "firebase_url": "https://login-anti-drug.firebaseio.com",
+    "project_id": "login-anti-drug",
+    "storage_bucket": "login-anti-drug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935342831435:android:fc9168fa5f4feff7655ace",
+        "android_client_info": {
+          "package_name": "com.example.antidrug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935342831435-70i4rtoakm831hs7583e3b8jgvnl6r3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.antidrug",
+            "certificate_hash": "01c8da5465c50ca110a4f2a67f215bfed5c108bf"
+          }
+        },
+        {
+          "client_id": "935342831435-0jh3k65mo188i321dv2nqji7l4hmf589.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSJZHZaldC4EbuiuB4q0llxL3tAvYuS3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935342831435-0jh3k65mo188i321dv2nqji7l4hmf589.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935342831435:android:f72d578b85db2a31655ace",
+        "android_client_info": {
+          "package_name": "com.example.loginantidrug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935342831435-egd9tnl1vnvlctj5kskcn7bjttnupqim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginantidrug",
+            "certificate_hash": "01c8da5465c50ca110a4f2a67f215bfed5c108bf"
+          }
+        },
+        {
+          "client_id": "935342831435-0jh3k65mo188i321dv2nqji7l4hmf589.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSJZHZaldC4EbuiuB4q0llxL3tAvYuS3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935342831435-0jh3k65mo188i321dv2nqji7l4hmf589.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
